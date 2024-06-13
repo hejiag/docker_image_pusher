@@ -1,9 +1,1 @@
-nginx
---platform=linux/arm64 xiaoyaliu/alist
-python:alpine3.19
-ghcr.io/home-assistant/home-assistant:stable
-eclipse-mosquitto
-nodered/node-red
-filebrowser/filebrowser
-ghcr.io/imagegenius/esphome:latest
-xhofe/alist:latest
+natpierce/natpierce:latest
