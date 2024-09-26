@@ -1,1 +1,2 @@
 natpierce/natpierce:latest
+ghcr.io/blakeblackshear/frigate:0.14.1
